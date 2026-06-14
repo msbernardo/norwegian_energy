@@ -1,0 +1,5 @@
+# Count Jupyter Notebooks as Python files
+*.ipynb linguist-language=Python
+
+# Treat SQL files as a 'data' language so they are always included
+*.sql linguist-language=SQL
